@@ -17,7 +17,7 @@
 	<option value="none">Selecione uma opção</option>
   <option value="volvo">Volvo</option>
   <option value="saab">Saab</option>
-  <option value="mercedes" selected="selected">Mercedes</option>
+  <option value="mercedes" >Mercedes</option>
   <option value="audi">Audi</option>
 </select>
 </td>
