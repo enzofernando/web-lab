@@ -25,8 +25,10 @@
 <tr>
 <td>Tipo:</td>
 <td>
+	<input type="radio" id="fabricado" name="suprimento" value="traficado">Fabricado<br>
+	<input type="radio" id="fabricado" name="suprimento" value="roubado">Fabricado<br>
+	<input type="radio" id="fabricado" name="suprimento" value="vendido">Fabricado<br>
 	<input type="radio" id="fabricado" name="suprimento" value="fabricado">Fabricado<br>
-	<input type="radio" id="comprado" name="suprimento" value="comprado">Comprado
 </td>
 </tr>
 <tr>
